@@ -1,0 +1,1 @@
+- I liked to investigate more about my reading regarding GDB since it is an interesting topic. Will most likely make it a common repository.
